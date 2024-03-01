@@ -17,7 +17,7 @@ Commits should:
 
   > fix: ``chick.getNumber()`` returns fake number.
 
-- Be descriptive. (like example: Not `added feature`, but instead ``feat: add support for gifs``.)
+- Be descriptive (like example: Not `added feature`, but instead ``feat: add support for gifs``).
 - Use one of the following types:
   - ``feat`` --> a feature (or addition to the source code)
   - ``fix`` --> bug fix
@@ -28,6 +28,6 @@ Commits should:
   - ``chore`` --> maintenance
   - ``init`` --> initial commit
 
-- Use a comma and then a space to separate types if the commit is related to multiple types. (e.g ``fix, tests: Get rid of anime girls, add test to ensure they don't come back.``.)
+- Use a comma and then a space to separate types if the commit is related to multiple types (e.g ``fix, tests: Get rid of anime girls, add test to ensure they don't come back.``).
 - Be under 100 characters ideally.
 - Try to be present tense (e.g ``add something`` not ``added something``).
