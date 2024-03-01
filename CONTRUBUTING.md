@@ -1,4 +1,4 @@
-## Submitting commits and pull requests
+# Submitting commits and pull requests
 
 ### 1 feature per commit
 Features should be kept to a minimal on each commit. Ideally **no more than 1 feature** unless it's related, if not try your best to split it into separate commits. Multiple features are allowed in pull requests however just make sure to stick to **1 feature per commit**.
