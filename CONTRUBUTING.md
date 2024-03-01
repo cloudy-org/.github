@@ -31,3 +31,8 @@ Commits should:
 - Use a comma and then a space to separate types if the commit is related to multiple types (e.g ``fix, tests: Get rid of anime girls, add test to ensure they don't come back.``).
 - Be under 100 characters ideally.
 - Use present tense (e.g ``add something`` not ``added something``)
+
+### Programming styles
+We aren't too strict on this nor are we enforcing any new style guide. If you follow official conventions from programming languages (like example PEP8 from Python) you won't find this too harsh.
+
+With that said this section is currently still being written so shooo, go away.
