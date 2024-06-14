@@ -1,5 +1,5 @@
 ## ☁️ What we do? *(or what will we do...)*
-Our goal is to create open-source software made by the people and for the people but with emphasis on the developer experience rather than speed and performance. Speed and performance is still our goal, just not our focus. Cross-platform is also our goal although applications are built 🐧 Linux first.
+Our goal is to create open-source software made by the people and for the people but with emphasis on the developer experience rather than speed and performance. Speed and performance is still our goal, just not our focus. Cross-platform is another goal although applications are mostly built 🐧 Linux first.
 
 **Our philosophy is to keep things intuitive for the less experienced users while also maintaining the flexibility for developers and more experienced users.**
 
