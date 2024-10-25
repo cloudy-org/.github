@@ -5,6 +5,8 @@ Our goal is to create open-source software made by the people and for the people
 
 > For example let's say an image viewer was being developed and it had a button at the bottom right to access the gallery but that button was textured with a collage of images from the gallery (remember just an example). Now let's say for OPSEC reasons I do not want this button to leak my images from my gallery, following the philosophy we believe in such moments a setting or configuration should exist to allow an advanced user to disable such features. Most GUI applications will not give you such power, that's the flexibility we are talking about.
 
+Regardless we're just a group of dedicated devs who love developing 🦅 **FOSS**.
+
 ## 🛠️ Contributing
 We're open to contributions, after all that's what makes open-source software the best. 💪
 
