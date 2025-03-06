@@ -1,5 +1,5 @@
 # Submitting commits and pull requests
-Being open to contribution and modification is what makes open-source software, actually open-source software... so see a bug? see a possible enchantment? The first thing you should do is [**create an issue**](). 🚀
+Being open to contribution and modification is what makes open-source software, actually open-source software... so see a bug? see a possible enchantment? The first thing you should do is **create an issue**. 🚀
 
 ### 1 feature per commit
 Features should be kept to a minimum on each commit. Ideally **no more than 1 feature** unless it's related, if not try your best to split it into separate commits. Multiple features are allowed in pull requests just beware that this will increase the changes of a pr rejection and us having to continuously request changes. The **1 feature per commit** rule still applies in pull requests.

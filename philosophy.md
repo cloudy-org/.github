@@ -23,7 +23,7 @@ If you don't like our software or vision, don't use it. If you find value in our
 
 In addition to publicly available source code, we believe in software transparency via documentation. Not everyone is a software developer, so let's not treat everyone like one.
 
-Each application will be thoroughly documented, all the way from it's basic usages to it's **exact** behaviours on your system and as far as when and why the software will perform activities such as making network requests. The documentation will give you a thorough overview, the source code will give you the exacts. After reading this, you'll know exactly what your application does and what every feature and configuration offers. You'll be the expert.
+Each application will be thoroughly documented, all the way from it's basic usages to it's **exact** behaviours on your system and as far as **when** and **why** the software will perform activities such as making network requests. The documentation will give you a thorough overview, the source code will give you the exacts. After reading this, you'll know exactly what your application does and what every feature and configuration offers. You'll be the expert.
 
 2. Privacy by Default (OPT-IN)
 
@@ -39,4 +39,10 @@ We hate bloated, slow and inefficient software as much as you do. Our goal is to
 
 Our applications will be lightweight and reasonably performant by avoiding unnecessary CPU usage, network activity, or any other wasteful processes. Our software will do **exactly what it's supposed to**, without overstepping many boundaries.
 
+4. Customization like no other software.
+
 TODO: still in progress
+
+## ❌ Let's clear up what we DO NOT mean.
+
+In principle **number 3** (efficiency and performance), when I mention "applications capable of running smooth on lower end hardware" and when I talk about modern day web applications no longer caring about your system resources, I DO NOT mean that we will not use these very web technologies to create web applications. I'm just mentioning it as an example here as realistically speaking we would weight the benefits and sustainability of a web application (such as a Tauri app) with the benefits and sustainability of a native application (such as a egui app) before we develop an application.
