@@ -19,19 +19,19 @@ While the tools at cloudy-org are developed primarily to fit our vision, they ar
 If you don't like our software or vision, don't use it. If you find value in our software or you relate to our vision, use it and help us improve it. 🤝
 
 ## 🌱 Our Principles
-1. Transparency via Documentation
+1. **Transparency via Documentation**
 
 In addition to publicly available source code, we believe in software transparency via documentation. Not everyone is a software developer, so let's not treat everyone like one.
 
 Each application will be thoroughly documented, all the way from it's basic usages to it's **exact** behaviours on your system and as far as **when** and **why** the software will perform activities such as making network requests. The documentation will give you a thorough overview, the source code will give you the exacts. After reading this, you'll know exactly what your application does and what every feature and configuration offers. You'll be the expert.
 
-2. Privacy by Default (OPT-IN)
+2. **Privacy by Default (OPT-IN)**
 
 Your data is your data, keep it.
 
 Our software is telemetry-free out of the box and will never include opt-out tracking by us.
 
-3. Efficiency and performance
+3. **Efficiency and performance**
 
 You don't need a NASA PC to run our applications, you won't need to worry about applications (such as electron based web apps) eating over a gigabyte of your RAM doing basic tasks from us.
 
@@ -41,7 +41,7 @@ Our applications will be lightweight and reasonably performant by avoiding unnec
 
 4. Customization like no other software.
 
-TODO: still in progress
+> TODO: still work in progress
 
 ## ❌ Let's clear up what we DO NOT mean.
 
