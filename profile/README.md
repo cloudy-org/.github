@@ -15,4 +15,4 @@ Although we have contribution and style guidelines we recommend you follow, othe
 - [Submitting commits and pull requests.](https://github.com/cloudy-org/.github/blob/main/CONTRUBUTING.md)
 
 ## *❓ Why did I create this organisation?*
-So whenever I get irritated by shit software, I make an alternative here.
+So whenever I get irritated by shit software, I make an alternative here or I write shit for fun.
