@@ -1,4 +1,5 @@
 # Submitting commits and pull requests
+Being open to contribution and modification is what makes open-source software... actually open-source software. So, see a bug? see a possible enchantment? The first thing you should do is **create an issue**. 🚀
 
 ### 1 feature per commit
 Features should be kept to a minimum on each commit. Ideally **no more than 1 feature** unless it's related, if not try your best to split it into separate commits. Multiple features are allowed in pull requests just beware that this will increase the changes of a pr rejection and us having to continuously request changes. The **1 feature per commit** rule still applies in pull requests.
@@ -36,3 +37,6 @@ Commits should:
 - Use a comma and then a space to separate types if the commit is related to multiple types (e.g ``fix, tests: Get rid of anime girls, add test to ensure they don't come back.``).
 - Be under 100 characters ideally.
 - Try to be present tense (e.g ``add something`` not ``added something``).
+
+#### Don't think too hard about it! We have much tolerance for newcomers.
+Happy contributing!
