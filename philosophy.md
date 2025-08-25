@@ -39,9 +39,9 @@ We hate bloated, slow and inefficient software as much as you do. Our goal is to
 
 Our applications will be lightweight and reasonably performant by avoiding unnecessary CPU usage, network activity, or any other wasteful processes. Our software will do **exactly what it's supposed to**, without overstepping many boundaries.
 
-4. Customization like no other software.
+4. **Customization like no other software.**
 
-> TODO: still work in progress
+> TODO: WIP! Still more to be written.
 
 ## ❌ Let's clear up what we DO NOT mean.
 
