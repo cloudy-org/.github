@@ -15,6 +15,6 @@ Although we have contribution and style guidelines we recommend you follow, othe
 - [Submitting commits and pull requests.](https://github.com/cloudy-org/.github/blob/main/CONTRUBUTING.md)
 
 ## ❓ Why did I create this organisation?
-Short answer (TL;DR): Because too much software sucks and I would rather build my own as it's FUN. If it works for me, maybe it will work for you too.
+Short answer (TL;DR): Because too much software sucks and I would rather build my own. If it works for me, maybe it will work for you too.
 
 Longer answer: Because too much software out there is bloated, inefficient, or just out right frustrating. As a developer, I build tools I need for myself; fast, efficient and focused on doing exactly what they're supposed to. If these tools help me, maybe someone else will find it helpful too. Hence I created this organization as a place to share this software.
