@@ -26,13 +26,13 @@ Commits should:
 - Be descriptive (like example: Not `added feature`, but instead ``feat: add support for gifs``).
 - Use one of the following types:
   - ``feat`` --> a feature (or addition to the source code)
-  - ``fix`` --> bug fix
-  - ``docs`` --> documentation
-  - ``style`` --> formatting, lint stuff
+  - ``fix`` --> bug fix commit
+  - ``docs`` --> documentation related commits
+  - ``style`` --> code formatting or linting commits
   - ``refactor`` --> code restructure without changing external behaviour
+  - ``chore`` --> maintenance / commits done very often that do not heavily change source code (e.g: `chore: version bump`)
   - ``tests`` --> adding missing tests
-  - ``chore`` --> maintenance
-  - ``init`` --> initial commit
+  - ``init`` --> initial commit (e.g)
 
 - Use a comma and then a space to separate types if the commit is related to multiple types (e.g ``fix, tests: Get rid of anime girls, add test to ensure they don't come back.``).
 - Be under 100 characters ideally.
