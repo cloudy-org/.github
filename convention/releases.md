@@ -5,13 +5,11 @@ Currently this convention is still being written so not everything will be cover
 ## Releasing binaries
 The main way of releasing application binaries currently is via github releases.
 
-~~*..picture will be here some day...*~~
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/2f2aae14-7bb3-47f0-8274-27e3e3362fb3" />
 
-You simply create a release, state what changes and fixes have occurred since the last [tagged version](https://git-scm.com/book/en/v2/Git-Basics-Tagging), mention PRs and git issues (more detail on this in a future section here), then comes attaching your binaries, but before we get to that let's go over this again point by point:
-
-1. Create a github release
-2. Write up release notes (more detail on this in the future)
-3. Attach your binaries
+1. Create a github release linked to appropriate tag.
+2. Write up release notes (mention relevant PRs & issues, changes occurred since last [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)).
+3. Attach your binaries.
 
 ### The convention of uploading binaries.
 At cloudy-org we plan to offer 3 different types of binaries on application release **at the moment**. Generally bullet point number 1 is all that's necessary and is also the recommended type of release binary.
@@ -22,13 +20,14 @@ At cloudy-org we plan to offer 3 different types of binaries on application rele
 
 The last one is less common but some applications may support it so we can do cool things like installing the entire application, **with configuration included**, onto a USB stick to run live on other machines (e.g. computers at the library).
 
-This is how we expect binaries to look like in a github release (**this is an example**):
+This is how we expect binaries to look like in a github release:
 ```sh
 roseate-linux-x86_64
 roseate-macos-x86_64
 roseate-win-x86_64.exe
 roseate-win-x86_64-setup.exe
 ```
+> `roseate` here being the name of the application.
 
 For Linux we release a binary (`example-linux-x86_64`) that is pulled by package managers. Package managers will also handle installation of all required dependencies, we just provide the plain standalone binary. Updates are also handled via distro package managers.
 
