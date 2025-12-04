@@ -11,6 +11,14 @@ The main way of releasing application binaries currently is via github releases.
 2. Write up release notes (mention relevant PRs & issues, changes occurred since last [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)).
 3. Attach your binaries.
 
+### Tag naming covention
+> It’s common practice to prefix your version names with the letter v. Some good tag names might be v1.0.0 or v2.3.4.
+
+Tags that tag application verions like `0.1.0-alpha.16` **must** be prefixed with lowercase `v` like so:
+```
+v0.1.0-alpha.16
+```
+
 ### The convention of uploading binaries.
 At cloudy-org we plan to offer 3 different types of binaries on application release **at the moment**. Generally bullet point number 1 is all that's necessary and is also the recommended type of release binary.
 
