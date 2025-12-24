@@ -14,6 +14,9 @@ Although we have contribution and style guidelines we recommend you follow, othe
 
 - [Submitting commits and pull requests.](https://github.com/cloudy-org/.github/blob/main/CONTRUBUTING.md)
 
+## 📖 WIKI
+We have a work in progress wiki over here: https://cloudy-org.github.io/wiki/
+
 ## ❓ Why did I create this organisation?
 **Short answer (TL;DR):** Because too much software sucks and I would rather build my own. If it works for me, maybe it will work for you too.
 
