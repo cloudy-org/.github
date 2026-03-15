@@ -3,7 +3,9 @@ Our goal is to create open-source software made by the people and for the people
 
 Our **quick** philosophy is to keep things intuitive for the less experienced while maintaining the flexibility and customization for developers and advanced users. Our [**long**](../philosophy.md) philosophy is located [over here](../philosophy.md).
 
-> For example let's say an image viewer was being developed and it had a button at the bottom right to access the gallery but that button was textured with a collage of images from the gallery (remember just an example). Now let's say for OPSEC reasons you do not want this button to leak images from your gallery, following the philosophy we believe in such moments a setting or configuration should exist to allow an advanced user to disable such a feature. Most GUI applications will not give you such power, that's the flexibility we are talking about.
+> For example, imagine an image viewer that automatically preloads the next couple of images in a folder for a carousel-like navigation feature (naviage between images with your arrow keys). For many users this is an expected feature for quick browsing of images in an image viewer. However, some users may not make much use of this feature or may prefer lower memory consumption. Following the philosophy, we belive such features and behaviours should be configurable to allow advanced users to tune it exactly the way they like (for example how aggressively the image viewer will load these images).
+> 
+> Most GUI applications will not give you such power and will make assumptions about what users want and provide no way to change them. This is just **one** example, now imagine situations involving OPSEC, privacy and more. For example, I don't like when my applications make random network requests without my direct action. At cloudy-org I rather inform users about these additional ways sofware may behave; a section in the philosophy highlights this and that is exactly what the [wiki](https://cloudy-org.github.io/wiki/) is for.
 
 Regardless we're just a group of dedicated devs who love developing 🦅 **FOSS**.
 
