@@ -8,7 +8,7 @@ Our **quick** philosophy is to keep things intuitive for the less experienced wh
 > 
 > "How about **NO** to that?" Many modern GUI applications today will make assumptions about what users want and provide no way to change them. This is just **one** example, now imagine situations involving OPSEC, privacy and more. Let users have a choice! Following the philosophy at cloudy-org, configuration will exist for disabling and tuning software features or behaviours as such, the way you like it.
 > 
-> I don't like when my applications make random network requests without my direct action, or perform operations outside of the scope of the original use of the product. At cloudy-org when an application does or requires to do such a thing, the user will be informed. I actually want the user to understand how the program works and what it does at any given moment, this is where the "1. Transparency via Documentation" philosophy and the [wiki](https://cloudy-org.github.io/wiki/) comes in.
+> I don't like when my applications make random network requests without my direct action, or perform operations outside of the scope of the original use of the product. At cloudy-org when an application does or requires to do such a thing, the user will be informed. I actually want the user to understand how the program works and what it does at any given moment, this is where the **"[1. Transparency via Documentation](https://github.com/cloudy-org/.github/blob/main/philosophy.md#-our-principles)"** philosophy and the [wiki](https://cloudy-org.github.io/wiki/) comes in.
 
 Regardless we're just a group of dedicated devs who love developing 🦅 **FOSS**.
 
