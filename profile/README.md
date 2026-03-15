@@ -12,6 +12,7 @@ We're open to contributions, after all that's what makes open-source software th
 
 Although we have contribution and style guidelines we recommend you follow, otherwise your contribution could be discarded.
 
+- [Development conventions](https://github.com/cloudy-org/.github/tree/main/convention)
 - [Submitting commits and pull requests.](https://github.com/cloudy-org/.github/blob/main/CONTRUBUTING.md)
 
 ## 📖 WIKI
