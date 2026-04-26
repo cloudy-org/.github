@@ -23,6 +23,6 @@ We have a work in progress wiki over here: https://cloudy-org.github.io/wiki/
 ## ❓ Why did I create this organisation?
 *If the previous sections and philosophy above was not enough...*
 
-Because too much software out there is bloated, inefficient, or just out right frustrating. As a developer, I usually build tools I need for myself, that are fast, efficient and focused on doing exactly what they're supposed to. If these tools help me, maybe someone else will find it helpful too. Hence I created this organization as a place to share this software.
+This organisation is a place I and others (who share frustrations in bloated, inefficient and anti-consumer software) build tools for ourselves that are **fast**, focused on their **intended purpose** and are **respectful** to you and your computer. If the tools are helpful to us, someone else may find it helpful too.
 
 [philosophy_link]: https://cloudy-org.github.io/wiki/philosophy
