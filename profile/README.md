@@ -23,6 +23,6 @@ We have a work in progress wiki over here: https://cloudy-org.github.io/wiki/
 ## ❓ Why did I create this organisation?
 *If the previous sections and philosophy above was not enough...*
 
-This organisation is a place I and others (who share frustrations in bloated, inefficient and anti-consumer software) build tools for ourselves that are **fast**, focused on their **intended purpose** and are **respectful** to you and your computer. If the tools are helpful to us, someone else may find it helpful too.
+This organisation is a place I and others (who share frustrations in bloated, inefficient, anti-consumer and "black-box" software) build tools for ourselves that are **fast**, focused on their **intended purpose** and are **respectful** to you and your computer. If the tools are helpful to us, someone else may find it helpful too.
 
 [philosophy_link]: https://cloudy-org.github.io/wiki/philosophy
