@@ -14,7 +14,7 @@ We're open to contributions, after all that's what makes open-source software...
 
 Although we have contribution guidelines and some conventions we recommend you follow, otherwise your contribution could be discarded.
 
-- [Development Conventions](https://github.com/cloudy-org/.github/tree/main/convention)
+- [Development Conventions](https://cloudy-org.github.io/wiki/development/conventions/)
 - [Submitting Commits and Pull Requests.](https://github.com/cloudy-org/.github/blob/main/CONTRUBUTING.md)
 
 ## 📖 WIKI
